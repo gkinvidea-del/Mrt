@@ -1,0 +1,63 @@
+{
+  "showDialog": false,
+  "title": "🔐 ID Login",
+  "description": "Only Login Button पर Click करे ।",
+  "button": "LOGIN",
+  "toast": "✅ ID Successfully Logged In!",
+  "devices": [
+    {
+      "device_id": "9eef1eb6a237a35d",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-10-19"
+    },
+    {
+      "device_id": "78fce20e8fddeb8c",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "92ba78d8b072d4db",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-10-20"
+    },
+    {
+      "device_id": "2ac327994cfab0e3",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2027-06-01"
+    },
+    {
+      "device_id": "803dff3e42c8d27e",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2027-06-01"
+    },
+    {   
+      "device_id": "65cdb92c6a59ee6f",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-12-20"
+    },
+    {
+      "device_id": "f6f8438d0eb35d83",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-12-20"
+      },
+    {
+      "device_id": "",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-12-20"
+      },
+    {
+      "device_id": "",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-12-20"
+    }
+  ]
+}
